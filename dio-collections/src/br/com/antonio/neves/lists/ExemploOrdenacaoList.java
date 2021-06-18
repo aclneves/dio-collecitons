@@ -1,4 +1,4 @@
-package br.com.antonio.neves;
+package br.com.antonio.neves.lists;
 
 /*Dadas as seguintes informações sobre meus gatos, crie uma lista
 e ordene esta lista exibindo:
